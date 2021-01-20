@@ -1,0 +1,28 @@
+/* Connecting fonts */
+@font-face {
+    font-family: 'FuturaPT-Heavy';
+    src: url(/fonts/FuturaPT-Heavy.woff2) format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'Georgia-Regular';
+    src: url(/fonts/Georgia.woff2) format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'Georgia-Italic';
+    src: url(/fonts/Georgia-Italic.woff2) format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'ProximaNova-Regular';
+    src: url(/fonts/ProximaNova-Regular.woff2) format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
